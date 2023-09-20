@@ -1,0 +1,163 @@
+2023-08-09 17:49:34 error [www]: GET /chat/getLists Not Found
+2023-08-10 09:12:26 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:14:24 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:14:27 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:14:33 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:14:50 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:15:54 error [www]: GET /send Not Found
+2023-08-10 09:16:12 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:24:07 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:27:40 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:27:56 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:28:00 error [www]: POST /chat/send Unexpected token " in JSON at position 0
+2023-08-10 09:28:27 error [www]: GET /user/getUserInfo Not Found
+2023-08-10 09:28:30 error [www]: POST /chat/send Unexpected token " in JSON at position 0
+2023-08-10 09:30:22 error [www]: POST /chat/send Unexpected token " in JSON at position 0
+2023-08-10 09:30:48 error [www]: POST /chat/send Unexpected token " in JSON at position 0
+2023-08-10 09:31:55 error [www]: POST /chat/send Unexpected token " in JSON at position 0
+2023-08-10 09:32:12 error [www]: POST /chat/send Not Found
+2023-08-10 09:35:24 error [www]: POST /chat/send Not Found
+2023-08-10 09:35:29 error [www]: POST /chat/send Not Found
+2023-08-10 09:36:40 error [www]: POST /chat/send Unexpected token m in JSON at position 7
+2023-08-10 09:37:05 error [www]: POST /chat/send Not Found
+2023-08-10 09:37:22 error [www]: POST /chat/send Not Found
+2023-08-10 09:42:16 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 09:44:17 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 09:47:22 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 09:47:52 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 09:49:51 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 09:50:52 error [www]: POST https://api.openai.com/v1/completions Not Found
+2023-08-10 09:51:47 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 10:35:49 error [www]: GET /chat Not Found
+2023-08-10 10:36:03 error [www]: GET /chat Not Found
+2023-08-10 10:37:52 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-10 10:45:18 error [www]: POST https://api.openai.com/v1/chat/completions Not Found
+2023-08-22 10:10:52 error [_babel-node.js]: GET /favicon.ico Not Found
+2023-09-14 11:38:12 error [_babel-node.js]: POST /commodity/getList Not Found
+2023-09-14 11:38:14 error [_babel-node.js]: POST /commodity/getList Not Found
+2023-09-14 11:40:29 error [_babel-node.js]: GET /favicon.ico Not Found
+2023-09-15 16:55:37 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 16:58:12 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 16:58:43 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:30 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:40 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:48 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:51 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:55 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:57 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:00:59 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-15 17:06:25 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 14:10:07 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 14:10:12 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 14:10:15 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:38:19 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:38:21 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:38:35 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:38:46 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:39:06 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:56:10 error [_babel-node.js]: GET /user/api/getUserInfo Not Found
+2023-09-17 16:56:13 error [_babel-node.js]: GET /user/api/getUserInfo Not Found
+2023-09-17 16:56:29 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 16:59:51 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:17:38 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:26:22 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:27:42 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:28:38 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:29:06 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:37:11 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:40:06 error [_babel-node.js]: POST /user/api/login Not Found
+2023-09-17 17:40:33 error [_babel-node.js]: GET /user/getUserInfo Not Found
+2023-09-17 17:40:36 error [_babel-node.js]: GET /commodity/getList Not Found
+2023-09-17 17:49:55 error [_babel-node.js]: GET /commodity/getList Not Found
+2023-09-18 08:41:54 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 08:59:08 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:12:46 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:13:55 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:13:57 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:17:01 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:18:08 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:18:18 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:20:03 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:20:12 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:20:15 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:20:24 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:21:04 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:22:59 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:23:01 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:28:19 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:28:23 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:28:54 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:29:04 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:29:13 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:41:13 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:41:35 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:41:38 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:41:58 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:42:04 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:42:08 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:46:07 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:47:27 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:47:28 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:47:28 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:47:31 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:48:08 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:48:10 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:48:38 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:48:39 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:49:02 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:49:04 error [_babel-node.js]: GET /user/getUserInfo No authorization token was found
+2023-09-18 09:49:30 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:49:36 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:55:23 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:55:29 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:55:31 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:58:15 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:58:31 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:59:43 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 09:59:45 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:00:42 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:00:51 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:01:04 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:01:06 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:04:06 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:04:09 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:04:14 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:04:24 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:06:12 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:24 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:24 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:25 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:25 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:28 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:28 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:07:30 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:09:02 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:09:04 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:11:52 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 10:11:54 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:57:46 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:58:39 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:58:45 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:21 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:25 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:28 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:30 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:32 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:41 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:44 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:46 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 11:59:47 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 12:00:10 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 12:00:40 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 12:00:40 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 12:00:42 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 14:04:05 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 14:07:57 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 14:07:58 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:45:39 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:45:40 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:45:42 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:46:12 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:46:22 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:54:19 error [_babel-node.js]: GET /user/getUserInfo jwt expired
+2023-09-18 15:56:29 error [_babel-node.js]: GET /user/getUserInfo jwt expired
